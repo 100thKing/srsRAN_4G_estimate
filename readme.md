@@ -57,7 +57,7 @@ srsran_install_configs.sh user
 ```
 
 
-##### Возникшие проблеьы
+### Возникшие проблемы
 Команда
 ```Bash
 make test
