@@ -174,7 +174,9 @@ nc 172.16.0.2 1234 < file_to_send.txt
 
 ### Проверка
 
-![gif](/third_party/tx_file.mov)
+![mov](/third_party/tx_file.mov)
+
+![image](/third_party/check_file.jpg)
 
 
 
@@ -182,15 +184,7 @@ nc 172.16.0.2 1234 < file_to_send.txt
 
 1. ~~Разобраться с передачей файла с BS на UE~~
 
-2. В ~/.config/srsran/ue.conf и ~/.config/srsran/enb.conf закомментированны множество настроек:
-
-	- metrics_csv_enable - записывает метрики в csv-таблицу
-	
-		На данном этапе, при раскомментировании этой, и связанных с ней функций создается таблица с единственной записью: #EOF
-
-	- Различные настройки канала(AWGN, fading, delay, Radio-link failure, SNR)
-
-	- GUI - графический интерфейс, способный отображать графики в реальном времени
+2. ~~В ~/.config/srsran/ue.conf и ~/.config/srsran/enb.conf закомментированны множество настроек~~
 
 3. Запустить код на радиомодуле
 
