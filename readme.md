@@ -174,7 +174,9 @@ nc 172.16.0.2 1234 < file_to_send.txt
 
 ### Проверка
 
-![mov](/third_party/tx_file.mov)
+*Картинка рябит из-за конвертации в .gif. Форматы .mp4 .mov .webm не удалось отобразить*
+
+![gif](/third_party/tx_file.gif)
 
 ![image](/third_party/check_file.jpg)
 
