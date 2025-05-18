@@ -178,6 +178,12 @@ nc 172.16.0.2 1234 < file_to_send.txt
 
 ![gif](/third_party/tx_file.gif)
 
+Во время передачи файла, можно ввести команду
+```Bash
+ls -lh filename
+```
+Чтобы вывести текущий размер файла
+
 ![image](/third_party/check_file.jpg)
 
 
